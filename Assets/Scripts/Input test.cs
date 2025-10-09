@@ -42,5 +42,12 @@ public class Inputtest : MonoBehaviour
             newPosition.z -= moveSpeed * Time.deltaTime;
             transform.position = newPosition;
         }
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            GetComponent<Rigidbody>().AddForce(Vector3.up * 10);
+        }
+
+
     }
 }
