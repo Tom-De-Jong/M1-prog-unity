@@ -9,7 +9,7 @@ public class WeaponSwitch : MonoBehaviour
 
     void Start()
     {
-        /* string currentWeapon = "Bow";
+        string currentWeapon = "Bow";
 
         switch (currentWeapon)
         {
@@ -53,7 +53,7 @@ public class WeaponSwitch : MonoBehaviour
                 Debug.Log("You have a " + selectedWeapon);
                 break;
 
-        }*/
+        }
     }
 
     // Update is called once per frame
