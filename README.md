@@ -61,3 +61,15 @@ ik heb een spell function gemaakt waarmee je met een functie spreuken in de cons
 [Spreuk code](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/spellscript.cs)
 
 ------------------------------------------------------------
+
+## les 4.2
+
+### Oefening 4.2A: Coin Pickup System
+
+ik heb een coin met een trigger gemaakt die verdwijnt als hij aangeraakt wordt.
+
+![CollectAndJump](https://github.com/user-attachments/assets/f954e92a-6b3c-4b80-88af-1d0aee088a67)
+
+[Coin Pickup](https://github.com/Tom-De-Jong/M1-prog-unity/blob/main/Assets/Scripts/coinpickup.cs)
+
+
