@@ -80,8 +80,11 @@ ik heb een coin met een trigger gemaakt die verdwijnt als hij aangeraakt wordt.
 
 Ik heb eerst een player gemaakt met een script waarin de variables maxHealth en playerHealth gemaakt worden. Daarna heb ik een script gemaakt met een OnTriggerEnter functie die kijkt of de HP lager is dan 75 en als dat waar is pakt de player de potion op en krijgt hij 25 HP erbij, anders staat er in de console dat de player meer dan 75 hp heeft.
 
-![CollectAndJump](https://github.com/user-attachments/assets/f954e92a-6b3c-4b80-88af-1d0aee088a67)
+![HealthPotion](https://github.com/user-attachments/assets/d190c805-a78c-4201-9e88-a1b08c48029f)
 
-[Coin Pickup](https://github.com/Tom-De-Jong/M1-prog-unity/blob/main/Assets/Scripts/coinpickup.cs)
+[Player variables](https://github.com/Tom-De-Jong/M1-prog-unity/blob/main/Assets/Scripts/playervariables.cs)
+
+[Potion pickup](https://github.com/Tom-De-Jong/M1-prog-unity/blob/main/Assets/Scripts/potionpickupscript.cs)
+
 
 
